@@ -6,7 +6,7 @@ public class Ventana extends JFrame {
         this.setVisible(true);
         this.setSize(450, 450);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("My Window");
+        this.setTitle("Ventana");
         this.setMinimumSize(new Dimension(250,250));
         this.setMaximumSize(new Dimension(750,750));
         this.setResizable(true);
